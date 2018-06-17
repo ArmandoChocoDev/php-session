@@ -1,2 +1,2 @@
 # php-session
-Un simple objet réprésentant la session php
+Un simple objet représentant la session php
