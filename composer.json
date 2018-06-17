@@ -13,6 +13,5 @@
         "psr-4": {
             "Choco\\Session\\": "src/"
         }
-    },
-    "require": {}
+    }
 }
