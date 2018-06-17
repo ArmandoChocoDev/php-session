@@ -1,0 +1,19 @@
+{
+    "name": "armando-choco/php-session",
+    "description": "Description of project PHPSession.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Armando",
+            "email": "afortes127@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Choco\\Session": "src/"
+        }
+    },
+    "require": {}
+}
