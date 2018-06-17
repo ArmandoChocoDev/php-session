@@ -9,6 +9,7 @@
             "email": "afortes127@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Choco\\Session\\": "src/"
