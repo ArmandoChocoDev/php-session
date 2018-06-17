@@ -1,6 +1,6 @@
 {
     "name": "armando-choco/php-session",
-    "description": "Description of project PHPSession.",
+    "description": "Un simple objet représentant la session php.",
     "type": "library",
     "license": "MIT",
     "authors": [
