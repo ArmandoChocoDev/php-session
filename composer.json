@@ -14,8 +14,5 @@
         "psr-4": {
             "Choco\\Session\\": "src/"
         }
-    },
-    "require": {
-        "php": ">=7.0.0"
     }
 }
